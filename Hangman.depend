@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1700001600 source:c:\users\alnour\onedrive\desktop\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1701123841 source:c:\users\asus tuf\onedrive\desktop\hangman-haj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1701941511 source:c:\users\asus tuf\onedrive\desktop\hangman-haj yy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
