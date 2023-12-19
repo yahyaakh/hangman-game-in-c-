@@ -1,0 +1,2 @@
+# hangman game in c 
+ 
